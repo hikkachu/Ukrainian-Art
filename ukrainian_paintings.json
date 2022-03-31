@@ -1,0 +1,22 @@
+{
+	"paintings" : [{
+			"name" : "kozaky",
+			"x" : 64,
+			"y" : 32
+		}, {
+			"name" : "malevych",
+			"square" : 16
+		}, {
+			"name" : "Olexandr_murashko",
+      "x" : 16,
+			"y" : 32
+		}, {
+			"name" : "shevchenko-kateryna",
+      "x" : 16,
+			"y" : 32
+		}, {
+			"name" : "zvir-guljaye",
+      "x" : 32,
+			"y" : 16
+		}]
+}
